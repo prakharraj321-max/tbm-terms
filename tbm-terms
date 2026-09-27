@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>T.B.M — Terms of Service</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#080b12;color:#eaf2ff;line-height:1.7}
+.container{max-width:900px;margin:auto;padding:40px 20px}
+.card{background:#111722;border:1px solid #24334a;border-radius:18px;padding:32px;box-shadow:0 0 35px rgba(0,140,255,.12)}
+h1{color:#58b8ff} h2{color:#7ac7ff;margin-top:30px}
+.date{color:#91a4ba} li{margin:10px 0}
+.email{color:#58b8ff}.footer{text-align:center;color:#718096;margin-top:25px}
+</style>
+</head>
+<body>
+<div class="container"><div class="card">
+<h1>Terms of Service for T.B.M</h1>
+<p class="date"><strong>Last Updated: 27/09/26</strong></p>
+<p>By inviting T.B.M ("the Bot") to your Discord server or using its features and commands, you agree to the following Terms of Service. If you do not agree with these terms, you must remove the Bot from your server and cease using its features immediately.</p>
+<h2>1. Acceptance of Terms</h2>
+<p>By interacting with T.B.M, you confirm that you have read, understood, and agree to be bound by these Terms of Service, as well as Discord’s official Terms of Service and Community Guidelines.</p>
+<h2>2. Usage Guidelines</h2>
+<p>You agree to use T.B.M in a responsible manner. You are strictly prohibited from:</p>
+<ul><li><strong>Abusing the Bot:</strong> Intentionally spamming commands, attempting to crash the Bot, or exploiting bugs and glitches.</li>
+<li><strong>Malicious Intent:</strong> Using the Bot to promote illegal activities, harass others, distribute malware, or violate Discord's Community Guidelines.</li>
+<li><strong>Bypassing Restrictions:</strong> Attempting to bypass any cooldowns, permissions, or premium features (if applicable) set by the Bot's developers.</li></ul>
+<h2>3. Data Collection and Privacy</h2>
+<p>To function properly, T.B.M may collect and temporarily store certain information provided by the Discord API.</p>
+<p>This data may include Server IDs, User IDs, Channel IDs, and command usage statistics.</p>
+<p>T.B.M does not log personal messages unless explicitly required for a specific command (e.g., a report or logging feature), and only does so within the scope of providing that service.</p>
+<p>For full details on how your data is handled, please see our <strong>Privacy Policy</strong>.</p>
+<h2>4. Availability and Maintenance</h2>
+<p>T.B.M is provided on an <strong>"as-is" and "as-available"</strong> basis.</p>
+<p>We strive to maintain high uptime, but we do not guarantee 100% availability.</p>
+<p>The Bot may occasionally go offline for updates, maintenance, or due to unforeseen technical issues without prior notice.</p>
+<h2>5. Right to Deny Service</h2>
+<p>We reserve the right to restrict, suspend, or terminate your access—or your server's access—to T.B.M at any time, for any reason, without prior notice. This is typically enforced only if a user or server is found violating these Terms or Discord’s ToS.</p>
+<h2>6. Limitation of Liability</h2>
+<p>The creator(s) of T.B.M shall not be held liable for any damages, data loss, or server disruptions resulting from the use or inability to use the Bot. Server administrators are responsible for configuring the Bot's permissions securely.</p>
+<h2>7. Changes to the Terms</h2>
+<p>We reserve the right to update these Terms of Service at any time. Major changes will be announced in the Bot's official support server. Continued use of T.B.M after changes are posted constitutes your acceptance of the revised Terms.</p>
+<h2>8. Contact Information</h2>
+<p>If you have any questions, concerns, or need to report a bug, please contact us via:</p>
+<p><strong>Developer Contact:</strong> <span class="email">prakharraj321@gmail.com</span></p>
+</div><div class="footer">© 2026 T.B.M Official Bot</div></div>
+</body>
+</html>
